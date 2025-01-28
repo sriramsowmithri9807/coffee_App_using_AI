@@ -1,5 +1,4 @@
 ﻿# coffee_App_using_AI
-# ☕ Coffee App Using AI
 
 Welcome to the **Coffee App Using AI** repository! 🎉 This project leverages the power of **Artificial Intelligence** to provide an exceptional coffee shop experience. Whether you're a coffee enthusiast or a curious techie, this app is sure to perk up your day! 🚀
 
@@ -93,8 +92,7 @@ This project is licensed under the [MIT License](LICENSE). 📝
 ## 💬 Contact
 
 If you have any questions or suggestions, feel free to reach out:  
-📧 **Email**: sriramsowmithri9807@gmail.com  
-🐦 **Twitter**: [@Sriram_Tech](https://twitter.com/Sriram_Tech)
+📧 **Email**: sowmithrisriram7@gmail.com
 
 ---
 
