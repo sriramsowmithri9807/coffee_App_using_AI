@@ -1,4 +1,4 @@
-﻿# coffee_App_using_AI
+ # coffee_App_using_AI
 
 Welcome to the **Coffee App Using AI** repository! 🎉 This project leverages the power of **Artificial Intelligence** to provide an exceptional coffee shop experience. Whether you're a coffee enthusiast or a curious techie, this app is sure to perk up your day! 🚀
 
